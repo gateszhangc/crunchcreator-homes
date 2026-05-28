@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crunchcreator.live/sitemap.xml
